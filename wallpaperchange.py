@@ -40,7 +40,7 @@ while True:
     os.path.abspath("sample_image.png")
     change_wallpaper(os.path.abspath("sample_image.png"))
     os.remove("sample_image.png")
-    time.sleep(30)
+    time.sleep(3600)
 
 
 
